@@ -24,7 +24,7 @@ import React from 'react'
 import './i18n/i18n'
 import { appName } from './utils/const'
 
-ReactGA.initialize('G-KMJJCFZDKF')
+ReactGA.initialize('G-N5D09RYEWB')
 
 Sentry.init({
   dsn: 'https://7cc7879b42ba4bed9f66fb6752558475@o436528.ingest.sentry.io/6274630',
